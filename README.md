@@ -1,6 +1,6 @@
 # food-sales-prediction
 
-For my first data science project, I was given a large dataset with information about products and the outlet stores they are sold in. Features of this dataset included item identifiers, item weight, item type,  item MRP, outlet identifier, outlet size, outlet type,  item outlet sales, and more. The goal was to use this dataset to understand trends in the data and make sales predictions.
+For this project, I was given a large dataset with information about products and the outlet stores they are sold in. Features of this dataset included item identifiers, item weight, item type,  item MRP, outlet identifier, outlet size, outlet type,  item outlet sales, and more. The goal was to use this dataset to understand trends in the data and make sales predictions.
 
 This project is broken up into 6 steps: 
 1. Basic notebook setup: Importing the necessary libraries and creating a DataFram using pandas. Using the .head() function to examine the features and values of the first few rows of the dataframe.
